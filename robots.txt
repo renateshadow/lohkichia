@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heimohpho.stemai.org/sitemap.xml
